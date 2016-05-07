@@ -1,0 +1,14 @@
+layout_spectrum: 0.8565208
+color:
+  saturation: 0.2618692
+  brandStrength: 0.05436079
+  lightness: 0.007314176
+  rhythmicContrast: 0.6249931
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.258245
+name: 'Gravitas Designs  '
